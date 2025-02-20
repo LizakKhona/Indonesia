@@ -146,4 +146,48 @@ img {
 .hero .hero-iframe {
   display: block;
   margin: 0 auto;
+}
+
+.articles {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #010a20;
+  background-image: url(../images/mobile-s2-bgi1-1x.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: linear-gradient(180deg, #010a20 0%, rgba(1, 10, 32, 0) 100%);
+}
+.articles .articles-content {
+  margin-top: 34px;
+}
+.articles .articles-content .articles-title {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.15;
+  color: #fff;
+  margin-bottom: 15px;
+}
+.articles .articles-content .articles-text {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  color: #e0e0e0;
+  margin-bottom: 15px;
+}
+.articles .articles-content .articles-button {
+  border-radius: 32px;
+  padding: 16px 24px;
+  width: 314px;
+  height: 72px;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+  color: #fff;
+  background: #dd2242;
+  border: none;
 }/*# sourceMappingURL=main.css.map */
