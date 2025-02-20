@@ -78,4 +78,72 @@ img {
   background-image: url(../images/mobile-bgi-s1-1x.png);
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
+  padding-top: 153px;
+  padding-bottom: 40px;
+}
+.hero .hero-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 58px;
+  line-height: 1.08;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 8px;
+}
+.hero .hero-button {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.8);
+  border-radius: 108px;
+  padding: 10px;
+  width: 315px;
+  height: 59px;
+  background: #dd2242;
+  border: none;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 54px;
+}
+.hero .social-list {
+  display: none;
+}
+.hero .direction-list {
+  border: 1px solid #000;
+  width: 314px;
+  background: #000;
+  opacity: 0.6;
+  padding-top: 35px;
+  padding-left: 32px;
+  padding-bottom: 30px;
+  margin: 0 auto;
+}
+.hero .direction-number {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #dd2242;
+}
+.hero .direction-title {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.56;
+  color: #fff;
+}
+.hero .direction-text {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  color: #939393;
+}
+.hero .hero-iframe {
+  display: block;
+  margin: 0 auto;
 }/*# sourceMappingURL=main.css.map */
